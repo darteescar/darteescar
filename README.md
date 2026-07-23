@@ -10,7 +10,7 @@ Building distributed systems, backend applications and software that scales.
 
 ---
 
-## 💻 About Me
+## About Me
 
 ```txt
 > whoami
@@ -32,11 +32,11 @@ Interests   :: Backend Development
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 
-<p align="left">
+<p align="center">
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
 <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
 <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
@@ -47,7 +47,7 @@ Interests   :: Backend Development
 
 ### Frameworks & Databases
 
-<p align="left">
+<p align="center">
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
 <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></a>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
@@ -62,7 +62,7 @@ Interests   :: Backend Development
 
 ### Tools & Platforms
 
-<p align="left">
+<p align="center">
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
