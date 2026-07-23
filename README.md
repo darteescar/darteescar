@@ -13,7 +13,6 @@ Building distributed systems, backend applications and software that scales.
 ## About Me
 
 ```txt
-> whoami
 
 Name        :: Duarte Silva
 Age         :: 23
