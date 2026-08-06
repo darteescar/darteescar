@@ -15,7 +15,7 @@ Building distributed systems, backend applications and software that scales.
 ```txt
 
 Name        :: Duarte Silva
-Age         :: 23
+Age         :: 21
 Location    :: Portugal 🇵🇹
 Education   :: BSc in Software Engineering
                University of Minho
