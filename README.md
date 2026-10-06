@@ -4,10 +4,6 @@
 Software Engineer | MSc Student in Computer Science and Engineering
 </h3>
 
-<p align="center">
-Building distributed systems, backend applications and software that scales.
-</p>
-
 ---
 
 ## About Me
