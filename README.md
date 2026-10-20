@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Duarte Silva</h1>
+<h1 align="center">Hi, I'm Duarte Escairo</h1>
 
 <h3 align="center">
 Software Engineer | MSc in Software Engineering
