@@ -10,7 +10,7 @@ Software Engineer | MSc in Software Engineering
 
 ```txt
 
-Name        :: Duarte Silva
+Name        :: Duarte Escairo
 Age         :: 20
 Location    :: Portugal 🇵🇹
 Education   :: BSc in Software Engineering
